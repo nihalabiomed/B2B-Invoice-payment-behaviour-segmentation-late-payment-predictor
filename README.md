@@ -1,3 +1,5 @@
+https://b2b-invoice-payment-behaviour-segmentation-late-payment-predic.streamlit.app
+
 Dataset: https://www.kaggle.com/datasets/sonalisingh1411/accounts-receivable-and-payment-delay-analysis?select=Dataset.csv   
 ## Business problem
 #### Every company that sells to other businesses (B2B) struggles with 2 questions:
