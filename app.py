@@ -39,7 +39,8 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- 3. GLOBAL PROJECT HEADING ---
-st.markdown("### 🛡️ B2B INVOICE PAYMENT BEHAVIOUR SEGMENTATION")
+# --- 3. GLOBAL PROJECT HEADING ---
+st.markdown("### 🛡️ PAYMENT BEHAVIOUR DETECTOR")
 st.markdown("---")
 
 # --- 4. LOAD ASSETS ---
